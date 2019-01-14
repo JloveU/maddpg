@@ -106,3 +106,6 @@ venv.bak/
 
 # PyCharm project settings
 .idea/
+
+# Log files
+log/
